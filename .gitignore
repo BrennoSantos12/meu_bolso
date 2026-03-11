@@ -1,0 +1,33 @@
+# Variáveis de ambiente (contém credenciais)
+.env
+
+# Ambiente virtual Python
+venv/
+.venv/
+env/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Distribuição / build
+dist/
+build/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+.directory
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
